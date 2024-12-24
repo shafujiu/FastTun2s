@@ -1,0 +1,9 @@
+framework module "FaIconTun2socks" {
+	header "ref.h"
+    header "Tun2socks.objc.h"
+    header "Shadowsocks.objc.h"
+    header "Universe.objc.h"
+    header "FaIconTun2socks.h"
+
+    export *
+}
